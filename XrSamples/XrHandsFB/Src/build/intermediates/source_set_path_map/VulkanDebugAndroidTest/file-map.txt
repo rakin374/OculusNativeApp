@@ -1,0 +1,4 @@
+org.khronos.openxr.hello_xr.test-Vulkan-0 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/resValues/androidTest/Vulkan/debug
+org.khronos.openxr.hello_xr.test-mergeVulkanDebugAndroidTestResources-1 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/incremental/VulkanDebugAndroidTest/mergeVulkanDebugAndroidTestResources/merged.dir
+org.khronos.openxr.hello_xr.test-mergeVulkanDebugAndroidTestResources-2 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/incremental/VulkanDebugAndroidTest/mergeVulkanDebugAndroidTestResources/stripped.dir
+org.khronos.openxr.hello_xr.test-merged_res-3 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/merged_res/VulkanDebugAndroidTest

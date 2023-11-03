@@ -1,0 +1,1 @@
+/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrControllers/Projects/Android/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a

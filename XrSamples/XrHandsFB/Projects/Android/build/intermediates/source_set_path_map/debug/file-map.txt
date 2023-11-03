@@ -1,0 +1,11 @@
+com.oculus.sdk.xrhandsfb.Android-support-compat-26.0.0-0 /Users/muni/.gradle/caches/transforms-3/68a1ccf7b18ca80b267630c4a2ce5fd5/transformed/support-compat-26.0.0/res
+com.oculus.sdk.xrhandsfb.Android-appcompat-v7-26.0.0-1 /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/res
+com.oculus.sdk.xrhandsfb.Android-support-media-compat-26.0.0-2 /Users/muni/.gradle/caches/transforms-3/cf1b219711367c7a5dd33dc4856f8fad/transformed/support-media-compat-26.0.0/res
+com.oculus.sdk.xrhandsfb.Android-pngs-3 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/generated/res/pngs/debug
+com.oculus.sdk.xrhandsfb.Android-resValues-4 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/generated/res/resValues/debug
+com.oculus.sdk.xrhandsfb.Android-rs-5 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/generated/res/rs/debug
+com.oculus.sdk.xrhandsfb.Android-mergeDebugResources-6 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.oculus.sdk.xrhandsfb.Android-mergeDebugResources-7 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.oculus.sdk.xrhandsfb.Android-merged_res-8 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/merged_res/debug
+com.oculus.sdk.xrhandsfb.Android-debug-9 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/src/debug/res
+com.oculus.sdk.xrhandsfb.Android-XrHandsFB-10 /Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/res

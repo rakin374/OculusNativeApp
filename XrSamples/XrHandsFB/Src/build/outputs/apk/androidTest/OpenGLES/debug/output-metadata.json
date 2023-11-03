@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "org.khronos.openxr.hello_xr.opengles.test",
+  "variantName": "OpenGLESDebugAndroidTest",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 0,
+      "versionName": "",
+      "outputFile": "hello_xr-OpenGLES-debug-androidTest.apk"
+    }
+  ],
+  "elementType": "File"
+}

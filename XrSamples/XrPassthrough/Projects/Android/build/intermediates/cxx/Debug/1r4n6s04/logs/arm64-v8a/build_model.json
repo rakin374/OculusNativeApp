@@ -1,0 +1,161 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/.cxx/Debug/1r4n6s04/arm64-v8a",
+  "soFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx/Debug/1r4n6s04/obj/local/arm64-v8a",
+  "soRepublishFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a",
+  "abiPlatformVersion": 24,
+  "variant": {
+    "buildSystemArgumentList": [
+      "V\u003d0",
+      "-j8",
+      "-C/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android",
+      "APP_PLATFORM\u003dandroid-24",
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "APP_STL\u003dc++_static",
+      "NDK_DEBUG\u003d1",
+      "OVR_DEBUG\u003d1",
+      "USE_ASAN\u003d1"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/.cxx",
+      "intermediatesBaseFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates",
+      "intermediatesFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx",
+      "gradleModulePathName": ":XrSamples:XrPassthrough:Projects:Android",
+      "moduleRootFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android",
+      "moduleBuildFile": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build.gradle",
+      "makeFile": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/Users/muni/Library/Android/sdk/ndk/23.1.7779620",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 31,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/muni/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/muni/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/muni/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/muni/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/muni/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57",
+        "sdkFolder": "/Users/muni/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/.cxx/Debug/1r4n6s04/prefab/arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "1r4n6s04b2n25552g24e2v4w5b223ro2i4a2q1055341h4o2c2d213t1j3b2f",
+  "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 7.4.2.\n#   - $NDK is the path to NDK 23.1.7779620.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d$PROJECT/XrSamples/XrPassthrough/Projects/Android/jni/Android.mk\nNDK_APPLICATION_MK\u003d$PROJECT/XrSamples/XrPassthrough/Projects/Android/jni/Application.mk\nAPP_ABI\u003d$ABI\nNDK_ALL_ABIS\u003d$ABI\nNDK_OUT\u003d$PROJECT/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx/Debug/$HASH/obj\nNDK_LIBS_OUT\u003d$PROJECT/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx/Debug/$HASH/lib\nV\u003d0\n-j8\n-C$PROJECT/XrSamples/XrPassthrough/Projects/Android\nAPP_PLATFORM\u003dandroid-24\nNDK_TOOLCHAIN_VERSION\u003dclang\nAPP_STL\u003dc++_static\nNDK_DEBUG\u003d1\nOVR_DEBUG\u003d1\nUSE_ASAN\u003d1",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/jni/Application.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_OUT\u003d/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx/Debug/1r4n6s04/obj",
+    "NDK_LIBS_OUT\u003d/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx/Debug/1r4n6s04/lib",
+    "V\u003d0",
+    "-j8",
+    "-C/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android",
+    "APP_PLATFORM\u003dandroid-24",
+    "NDK_TOOLCHAIN_VERSION\u003dclang",
+    "APP_STL\u003dc++_static",
+    "NDK_DEBUG\u003d1",
+    "OVR_DEBUG\u003d1",
+    "USE_ASAN\u003d1"
+  ],
+  "intermediatesParentFolder": "/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/build/intermediates/cxx/Debug/1r4n6s04"
+}

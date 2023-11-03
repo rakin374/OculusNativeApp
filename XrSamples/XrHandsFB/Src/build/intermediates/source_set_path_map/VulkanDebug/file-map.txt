@@ -1,0 +1,11 @@
+org.khronos.openxr.hello_xr-hello_xr-0 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/android_resources
+org.khronos.openxr.hello_xr-android_resources-1 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/android_resources/vulkan
+org.khronos.openxr.hello_xr-Vulkan-2 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/pngs/Vulkan/debug
+org.khronos.openxr.hello_xr-Vulkan-3 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/resValues/Vulkan/debug
+org.khronos.openxr.hello_xr-packageVulkanDebugResources-4 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/incremental/VulkanDebug/packageVulkanDebugResources/merged.dir
+org.khronos.openxr.hello_xr-packageVulkanDebugResources-5 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/incremental/VulkanDebug/packageVulkanDebugResources/stripped.dir
+org.khronos.openxr.hello_xr-merged_res-6 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/merged_res/VulkanDebug
+org.khronos.openxr.hello_xr-Vulkan-7 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/Vulkan/res
+org.khronos.openxr.hello_xr-VulkanDebug-8 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/VulkanDebug/res
+org.khronos.openxr.hello_xr-debug-9 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/debug/res
+org.khronos.openxr.hello_xr-main-10 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/main/res

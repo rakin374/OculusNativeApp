@@ -1,0 +1,5 @@
+/Users/muni/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86 \
+  hello_xr \
+  openxr_loader

@@ -1,0 +1,23 @@
+/Users/muni/Library/Android/sdk/cmake/3.22.1/bin/cmake \
+  -H/Users/muni/Projects/XRProjects/OpenXR-SDK-Source \
+  -DCMAKE_SYSTEM_NAME=Android \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_SYSTEM_VERSION=24 \
+  -DANDROID_PLATFORM=android-24 \
+  -DANDROID_ABI=x86_64 \
+  -DCMAKE_ANDROID_ARCH_ABI=x86_64 \
+  -DANDROID_NDK=/Users/muni/Library/Android/sdk/ndk/21.4.7075529 \
+  -DCMAKE_ANDROID_NDK=/Users/muni/Library/Android/sdk/ndk/21.4.7075529 \
+  -DCMAKE_TOOLCHAIN_FILE=/Users/muni/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake \
+  -DCMAKE_MAKE_PROGRAM=/Users/muni/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/cxx/Debug/4hd225p1/obj/x86_64 \
+  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/cxx/Debug/4hd225p1/obj/x86_64 \
+  -DCMAKE_BUILD_TYPE=Debug \
+  -B/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86_64 \
+  -GNinja \
+  -DBUILD_API_LAYERS=OFF \
+  -DBUILD_TESTS=ON \
+  -DBUILD_LOADER=ON \
+  -DBUILD_CONFORMANCE_TESTS=OFF \
+  -DBUILD_ALL_EXTENSIONS=ON \
+  -DHELLOXR_DEFAULT_GRAPHICS_PLUGIN=OpenGLES

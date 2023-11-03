@@ -1,0 +1,4 @@
+#Fri Nov 03 18:16:35 EDT 2023
+base.0=/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/dex/VulkanDebugAndroidTest/mergeProjectDexVulkanDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

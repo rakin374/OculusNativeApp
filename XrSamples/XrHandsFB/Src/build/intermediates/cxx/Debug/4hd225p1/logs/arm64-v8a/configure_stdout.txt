@@ -1,0 +1,72 @@
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Users/muni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Users/muni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PythonInterp: /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 (found suitable version "3.11.4", minimum required is "3") 
+-- Performing Test HAVE_FILESYSTEM_IN_STD
+-- Performing Test HAVE_FILESYSTEM_IN_STD - Failed
+-- Performing Test HAVE_FILESYSTEM_IN_STDEXPERIMENTAL
+-- Performing Test HAVE_FILESYSTEM_IN_STDEXPERIMENTAL - Failed
+-- Performing Test HAVE_FILESYSTEM_IN_STD_17
+-- Performing Test HAVE_FILESYSTEM_IN_STD_17 - Failed
+-- Performing Test HAVE_FILESYSTEM_WITHOUT_LIB
+-- Performing Test HAVE_FILESYSTEM_WITHOUT_LIB - Failed
+-- Performing Test HAVE_FILESYSTEM_NEEDING_LIBSTDCXXFS
+-- Performing Test HAVE_FILESYSTEM_NEEDING_LIBSTDCXXFS - Failed
+-- Performing Test HAVE_FILESYSTEM_NEEDING_LIBCXXFS
+-- Performing Test HAVE_FILESYSTEM_NEEDING_LIBCXXFS - Failed
+-- Found OpenGLES: /Users/muni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libGLESv3.so  found components: V3 V2 
+-- Found PkgConfig: /usr/local/bin/pkg-config (found version "0.29.2") 
+-- Performing Test HAVE_EGL
+-- Performing Test HAVE_EGL - Success
+-- Found EGL: /Users/muni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include (found version "1.5") 
+-- Enabling OpenGL|ES support
+-- Found Vulkan: /Users/muni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  
+-- Enabling Vulkan support
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - not found
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE  
+-- Could NOT find JsonCpp (missing: JsonCpp_INCLUDE_DIR JsonCpp_LIBRARY) 
+-- Enabling OpenGL support in hello_xr, loader_test, and conformance, if configured
+-- Found glslc: /Users/muni/Library/Android/sdk/ndk/21.4.7075529/shader-tools/darwin-x86_64/glslc
+-- Looking for secure_getenv
+-- Looking for secure_getenv - not found
+-- Looking for __secure_getenv
+-- Looking for __secure_getenv - not found
+-- Looking for timespec_get
+-- Looking for timespec_get - not found
+-- OpenXR 1.0.31
+-- Performing Test SUPPORTS_Wall
+-- Performing Test SUPPORTS_Wall - Success
+-- Performing Test SUPPORTS_C_Wall
+-- Performing Test SUPPORTS_C_Wall - Success
+-- Performing Test SUPPORTS_Werrorunusedparameter
+-- Performing Test SUPPORTS_Werrorunusedparameter - Success
+-- Performing Test SUPPORTS_C_Werrorunusedparameter
+-- Performing Test SUPPORTS_C_Werrorunusedparameter - Success
+-- Performing Test SUPPORTS_Werrorunusedargument
+-- Performing Test SUPPORTS_Werrorunusedargument - Success
+-- Performing Test SUPPORTS_C_Werrorunusedargument
+-- Performing Test SUPPORTS_C_Werrorunusedargument - Success
+-- Performing Test SUPPORTS_Wpointerarith
+-- Performing Test SUPPORTS_Wpointerarith - Success
+-- Performing Test SUPPORTS_C_Wpointerarith
+-- Performing Test SUPPORTS_C_Wpointerarith - Success
+-- hello_xr will default to OpenGL ES graphics plugin
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/arm64-v8a

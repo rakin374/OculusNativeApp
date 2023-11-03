@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../../../../OpenXR/Include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../OpenXR/Include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../XrSamples/XrHandsFB/Src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../XrSamples/XrHandsFB/Src" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../3rdParty/khronos/openxr/OpenXR-SDK/include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../3rdParty/khronos/openxr/OpenXR-SDK/include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../XrSamples/XrHandsFB/Projects/Android/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../XrSamples/XrHandsFB/Projects/Android/jni" type="native-Source-root" />
+    </content>
+  </component>
+</module>

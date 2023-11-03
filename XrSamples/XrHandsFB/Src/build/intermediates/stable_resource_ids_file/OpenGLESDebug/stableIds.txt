@@ -1,0 +1,5 @@
+org.khronos.openxr.hello_xr.opengles:string/app_name = 0x7f040000
+org.khronos.openxr.hello_xr.opengles:mipmap/ic_helloxr_launcher = 0x7f030000
+org.khronos.openxr.hello_xr.opengles:drawable/ic_helloxr_vk = 0x7f020001
+org.khronos.openxr.hello_xr.opengles:drawable/ic_helloxr_es = 0x7f020000
+org.khronos.openxr.hello_xr.opengles:color/ic_helloxr_launcher_background = 0x7f010000

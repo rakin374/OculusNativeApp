@@ -1,0 +1,12 @@
+org.khronos.openxr.hello_xr-hello_xr-0 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/android_resources
+org.khronos.openxr.hello_xr-android_resources-1 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/android_resources/opengles
+org.khronos.openxr.hello_xr-OpenGLES-2 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/pngs/OpenGLES/debug
+org.khronos.openxr.hello_xr-OpenGLES-3 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/resValues/OpenGLES/debug
+org.khronos.openxr.hello_xr-OpenGLES-4 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/rs/OpenGLES/debug
+org.khronos.openxr.hello_xr-packageOpenGLESDebugResources-5 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/incremental/OpenGLESDebug/packageOpenGLESDebugResources/merged.dir
+org.khronos.openxr.hello_xr-packageOpenGLESDebugResources-6 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/incremental/OpenGLESDebug/packageOpenGLESDebugResources/stripped.dir
+org.khronos.openxr.hello_xr-merged_res-7 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/intermediates/merged_res/OpenGLESDebug
+org.khronos.openxr.hello_xr-OpenGLES-8 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/OpenGLES/res
+org.khronos.openxr.hello_xr-OpenGLESDebug-9 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/OpenGLESDebug/res
+org.khronos.openxr.hello_xr-debug-10 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/debug/res
+org.khronos.openxr.hello_xr-main-11 /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/src/main/res

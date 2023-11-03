@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/drawable_ic_helloxr_es.xml.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/drawable/ic_helloxr_es.xml"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/mipmap-xhdpi_ic_helloxr_launcher.png.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/opengles/mipmap-xhdpi/ic_helloxr_launcher.png"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/mipmap-hdpi_ic_helloxr_launcher.png.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/opengles/mipmap-hdpi/ic_helloxr_launcher.png"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/mipmap-mdpi_ic_helloxr_launcher.png.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/opengles/mipmap-mdpi/ic_helloxr_launcher.png"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/mipmap-xxxhdpi_ic_helloxr_launcher.png.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/opengles/mipmap-xxxhdpi/ic_helloxr_launcher.png"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/mipmap-xxhdpi_ic_helloxr_launcher.png.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/opengles/mipmap-xxhdpi/ic_helloxr_launcher.png"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/mipmap-anydpi-v26_ic_helloxr_launcher.xml.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/opengles/mipmap-anydpi-v26/ic_helloxr_launcher.xml"
+    },
+    {
+        "merged": "org.khronos.openxr.hello_xr-merged_res-7:/drawable_ic_helloxr_vk.xml.flat",
+        "source": "org.khronos.openxr.hello_xr-hello_xr-0:/drawable/ic_helloxr_vk.xml"
+    }
+]

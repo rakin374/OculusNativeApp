@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/473c5fl5/armeabi-v7a'
+[0/2] Re-checking globbed directories...
+ninja: no work to do.

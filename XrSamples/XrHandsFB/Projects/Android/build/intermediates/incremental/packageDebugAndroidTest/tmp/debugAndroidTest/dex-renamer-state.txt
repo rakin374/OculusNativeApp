@@ -1,0 +1,7 @@
+#Fri Nov 03 16:15:03 EDT 2023
+base.0=/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/6/classes.dex
+path.0=0/classes.dex
+path.1=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

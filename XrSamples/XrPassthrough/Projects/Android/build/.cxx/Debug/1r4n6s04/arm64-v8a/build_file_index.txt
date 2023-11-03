@@ -1,0 +1,2 @@
+/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/jni/Android.mk
+/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/jni/Application.mk

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.khronos.openxr.hello_xr-merged_res-6:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/android_resources/values/ic_helloxr_launcher_background.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "152",
+                        "endColumns": "64",
+                        "endOffsets": "212"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                },
+                {
+                    "source": "/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/resValues/Vulkan/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "161",
+                        "endColumns": "75",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "120",
+                        "endColumns": "75",
+                        "endOffsets": "191"
+                    }
+                }
+            ]
+        }
+    ]
+}

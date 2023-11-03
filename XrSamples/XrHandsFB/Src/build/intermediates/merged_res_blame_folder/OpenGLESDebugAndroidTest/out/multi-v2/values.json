@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.khronos.openxr.hello_xr.test-mergeOpenGLESDebugAndroidTestResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/build/generated/res/resValues/androidTest/OpenGLES/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "163",
+                        "endColumns": "78",
+                        "endOffsets": "237"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "78",
+                        "endOffsets": "129"
+                    }
+                }
+            ]
+        }
+    ]
+}

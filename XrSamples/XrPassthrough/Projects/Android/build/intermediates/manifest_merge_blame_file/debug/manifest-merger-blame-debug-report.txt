@@ -1,0 +1,114 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oculus.sdk.xrpassthrough"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml
+10        android:targetSdkVersion="25" />
+10-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml
+11    <!-- Tell the system this app requires OpenGL ES 3.1. -->
+12    <uses-feature
+12-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:10:3-13:9
+13        android:glEsVersion="0x00030001"
+13-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:11:7-39
+14        android:required="true" />
+14-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:12:7-30
+15    <uses-feature
+15-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:15:3-18:9
+16        android:name="android.hardware.vr.headtracking"
+16-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:16:7-54
+17        android:required="true" />
+17-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:17:7-30
+18    <uses-feature
+18-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:20:3-90
+19        android:name="com.oculus.experimental.enabled"
+19-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:20:17-63
+20        android:required="true" />
+20-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:20:64-87
+21    <uses-feature
+21-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:21:3-89
+22        android:name="com.oculus.feature.PASSTHROUGH"
+22-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:21:17-62
+23        android:required="true" />
+23-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:21:63-86
+24    <!-- Enable report events to Telemetry Service -->
+25    <uses-permission android:name="com.oculus.permission.REPORT_EVENTS" />
+25-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:23:3-73
+25-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:23:20-70
+26    <uses-permission android:name="com.oculus.permission.REPORT_EVENTS_DEBUG" />
+26-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:24:3-79
+26-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:24:20-76
+27    <!-- Volume Control -->
+28    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+28-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:26:3-78
+28-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:26:20-75
+29    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:27:3-78
+29-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:27:20-75
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:28:3-77
+30-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:28:20-74
+31
+32    <application
+32-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:29:3-55:17
+33        android:allowBackup="false"
+33-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:30:7-34
+34        android:debuggable="true"
+35        android:extractNativeLibs="false"
+36        android:label="xrpassthrough"
+36-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:31:7-36
+37        android:testOnly="true" >
+38        <meta-data
+38-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:33:5-81
+39            android:name="com.oculus.supportedDevices"
+39-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:33:16-58
+40            android:value="all" />
+40-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:33:59-78
+41        <!-- launchMode is set to singleTask because there should never be multiple copies of the app running -->
+42        <!-- Theme.Black.NoTitleBar.Fullscreen gives solid black instead of a (bad stereoscopic) gradient on app transition -->
+43        <!-- If targeting API level 24+, configChanges should additionally include 'density'. -->
+44        <!-- If targeting API level 24+, android:resizeableActivity="false" should be added. -->
+45        <activity
+45-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:38:5-54:16
+46            android:name="com.oculus.NativeActivity"
+46-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:39:9-49
+47            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode"
+47-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:44:9-110
+48            android:excludeFromRecents="false"
+48-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:43:9-43
+49            android:launchMode="singleTask"
+49-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:41:9-40
+50            android:screenOrientation="landscape"
+50-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:42:9-46
+51            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+51-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:40:9-73
+52
+53            <!-- Tell NativeActivity the name of the .so -->
+54            <meta-data
+54-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:47:7-86
+55                android:name="android.app.lib_name"
+55-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:47:18-53
+56                android:value="xrpassthrough" />
+56-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:47:54-83
+57            <!-- This filter lets the apk show up as a launchable icon. -->
+58            <intent-filter>
+58-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:49:7-53:23
+59                <action android:name="android.intent.action.MAIN" />
+59-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:50:9-61
+59-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:50:17-58
+60
+61                <category android:name="com.oculus.intent.category.VR" />
+61-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:51:9-66
+61-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:51:19-63
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:52:9-69
+62-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrPassthrough/Projects/Android/AndroidManifest.xml:52:19-66
+63            </intent-filter>
+64        </activity>
+65    </application>
+66
+67</manifest>

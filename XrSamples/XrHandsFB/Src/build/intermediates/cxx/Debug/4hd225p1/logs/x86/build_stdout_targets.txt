@@ -1,0 +1,115 @@
+ninja: Entering directory `/Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86'
+[0/2] Re-checking globbed directories...
+[1/50] Generating frag.spv
+[2/50] Generating vert.spv
+[3/50] Building C object src/CMakeFiles/android_native_app_glue.dir/Users/muni/Library/Android/sdk/ndk/21.4.7075529/sources/android/native_app_glue/android_native_app_glue.c.o
+[4/50] Building C object src/CMakeFiles/openxr-gfxwrapper.dir/common/gfxwrapper_opengl.c.o
+[5/50] Linking C static library src/libopenxr-gfxwrapper.a
+[6/50] Generating /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86/include/openxr/openxr.h
+* Building openxr.h
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[7/50] Generating /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86/include/openxr/openxr_platform.h
+* Building openxr_platform.h
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[8/50] Generating /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86/include/openxr/openxr_reflection.h
+* Building openxr_reflection.h
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[9/50] Generating /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86/include/openxr/openxr_reflection_structs.h
+* Building openxr_reflection_structs.h
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[10/50] Generating /Users/muni/Projects/XRProjects/OpenXR-SDK-Source/src/tests/hello_xr/.cxx/Debug/4hd225p1/x86/include/openxr/openxr_reflection_parent_structs.h
+* Building openxr_reflection_parent_structs.h
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[11/50] Generating xr_generated_dispatch_table_core.c using /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 on utility_source_generator.py
+* Building xr_generated_dispatch_table_core.c
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[12/50] Generating xr_generated_dispatch_table_core.h using /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 on utility_source_generator.py
+* Building xr_generated_dispatch_table_core.h
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[13/50] Generating xr_generated_loader.hpp using /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 on loader_source_generator.py
+* Building xr_generated_loader.hpp
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[14/50] Generating xr_generated_loader.cpp using /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 on loader_source_generator.py
+* Building xr_generated_loader.cpp
+* options.versions          = .*
+* options.emitversions      = .*
+* options.defaultExtensions = openxr
+* options.addExtensions     = _nomatch_^
+* options.removeExtensions  = _nomatch_^
+* options.emitExtensions    = .*
+[15/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/android-jni-wrappers/wrap/android.database.cpp.o
+[16/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/android-jni-wrappers/wrap/android.net.cpp.o
+[17/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/graphicsplugin_d3d11.cpp.o
+[18/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/graphicsplugin_d3d12.cpp.o
+[19/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/d3d_common.cpp.o
+[20/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/graphicsplugin_opengl.cpp.o
+[21/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/jnipp/jnipp.cpp.o
+[22/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/logger.cpp.o
+[23/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/graphicsplugin_factory.cpp.o
+[24/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/main.cpp.o
+[25/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/graphicsplugin_opengles.cpp.o
+[26/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/pch.cpp.o
+[27/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/platformplugin_factory.cpp.o
+[28/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/platformplugin_posix.cpp.o
+[29/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/platformplugin_android.cpp.o
+[30/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/platformplugin_win32.cpp.o
+[31/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/android-jni-wrappers/wrap/android.content.cpp.o
+[32/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/common/filesystem_utils.cpp.o
+[33/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/graphicsplugin_vulkan.cpp.o
+[34/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/android_utilities.cpp.o
+[35/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/jsoncpp/src/lib_json/json_writer.cpp.o
+[36/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/jsoncpp/src/lib_json/json_value.cpp.o
+[37/50] Building CXX object src/tests/hello_xr/CMakeFiles/hello_xr.dir/openxr_program.cpp.o
+[38/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/external/jsoncpp/src/lib_json/json_reader.cpp.o
+[39/50] Building C object src/loader/CMakeFiles/openxr_loader.dir/__/xr_generated_dispatch_table_core.c.o
+[40/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/api_layer_interface.cpp.o
+[41/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/loader_core.cpp.o
+[42/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/loader_logger_recorders.cpp.o
+[43/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/loader_instance.cpp.o
+[44/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/loader_logger.cpp.o
+[45/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/xr_generated_loader.cpp.o
+[46/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/__/common/object_info.cpp.o
+[47/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/runtime_interface.cpp.o
+[48/50] Building CXX object src/loader/CMakeFiles/openxr_loader.dir/manifest_file.cpp.o
+[49/50] Linking CXX shared library ../../../../build/intermediates/cxx/Debug/4hd225p1/obj/x86/libopenxr_loader.so
+[50/50] Linking CXX shared module ../../../../build/intermediates/cxx/Debug/4hd225p1/obj/x86/libhello_xr.so
