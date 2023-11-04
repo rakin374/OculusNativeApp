@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XrSamples/XrControllers/Projects/Android/OculusRoot.XrSamples.XrControllers.Projects.Android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/XrSamples/XrControllers/Projects/Android/OculusRoot.XrSamples.XrControllers.Projects.Android.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/XrSamples/XrHandsFB/Projects/Android/OculusRoot.XrSamples.XrHandsFB.Projects.Android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/XrSamples/XrHandsFB/Projects/Android/OculusRoot.XrSamples.XrHandsFB.Projects.Android.main.iml" />
     </modules>
   </component>

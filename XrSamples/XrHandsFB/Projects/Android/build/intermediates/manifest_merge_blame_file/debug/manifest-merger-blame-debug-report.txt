@@ -49,64 +49,63 @@
 30-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:18:15-42
 31        android:debuggable="true"
 32        android:extractNativeLibs="false"
-33        android:label="@string/app_name"
+33        android:label="@string/app_name" >
 33-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:18:43-75
-34        android:testOnly="true" >
-35        <meta-data
-35-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:20:2-78
-36            android:name="com.oculus.supportedDevices"
-36-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:20:13-55
-37            android:value="all" />
-37-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:20:56-75
-38
-39        <!-- launchMode is set to singleTask because there should never be multiple copies of the app running -->
-40        <!-- Theme.Black.NoTitleBar.Fullscreen gives solid black instead of a (bad stereoscopic) gradient on app transition -->
-41        <!-- If targeting API level 24+, configChanges should additionally include 'density'. -->
-42        <!-- If targeting API level 24+, android:resizeableActivity="false" should be added. -->
-43        <activity
-43-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:26:3-42:14
-44            android:name="com.oculus.sdk.xrhandsfb.MainActivity"
-44-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:27:5-57
-45            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode"
-45-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:31:5-106
-46            android:launchMode="singleTask"
-46-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:29:5-36
-47            android:screenOrientation="landscape"
-47-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:30:5-42
-48            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-48-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:28:5-69
-49
-50            <!-- Tell NativeActivity the name of the .so -->
-51
-52            <meta-data
-52-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:34:7-82
-53                android:name="android.app.lib_name"
-53-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:34:18-53
-54                android:value="xrhandsfb" />
-54-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:34:54-79
-55
-56            <!-- This filter lets the apk show up as a launchable icon -->
-57            <intent-filter>
-57-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:37:4-41:20
-58                <action android:name="android.intent.action.MAIN" />
-58-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:38:5-57
-58-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:38:13-54
-59
-60                <category android:name="com.oculus.intent.category.VR" />
-60-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:39:5-62
-60-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:39:15-59
-61                <category android:name="android.intent.category.LAUNCHER" />
-61-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:40:5-65
-61-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:40:15-62
-62            </intent-filter>
-63        </activity>
-64
-65        <meta-data
-65-->[com.android.support:appcompat-v7:26.0.0] /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/AndroidManifest.xml:26:9-28:38
-66            android:name="android.support.VERSION"
-66-->[com.android.support:appcompat-v7:26.0.0] /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/AndroidManifest.xml:27:13-51
-67            android:value="26.0.0" />
-67-->[com.android.support:appcompat-v7:26.0.0] /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/AndroidManifest.xml:28:13-35
-68    </application>
-69
-70</manifest>
+34        <meta-data
+34-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:20:2-78
+35            android:name="com.oculus.supportedDevices"
+35-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:20:13-55
+36            android:value="all" />
+36-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:20:56-75
+37
+38        <!-- launchMode is set to singleTask because there should never be multiple copies of the app running -->
+39        <!-- Theme.Black.NoTitleBar.Fullscreen gives solid black instead of a (bad stereoscopic) gradient on app transition -->
+40        <!-- If targeting API level 24+, configChanges should additionally include 'density'. -->
+41        <!-- If targeting API level 24+, android:resizeableActivity="false" should be added. -->
+42        <activity
+42-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:26:3-42:14
+43            android:name="com.oculus.sdk.xrhandsfb.MainActivity"
+43-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:27:5-57
+44            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode"
+44-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:31:5-106
+45            android:launchMode="singleTask"
+45-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:29:5-36
+46            android:screenOrientation="landscape"
+46-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:30:5-42
+47            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+47-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:28:5-69
+48
+49            <!-- Tell NativeActivity the name of the .so -->
+50
+51            <meta-data
+51-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:34:7-82
+52                android:name="android.app.lib_name"
+52-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:34:18-53
+53                android:value="xrhandsfb" />
+53-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:34:54-79
+54
+55            <!-- This filter lets the apk show up as a launchable icon -->
+56            <intent-filter>
+56-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:37:4-41:20
+57                <action android:name="android.intent.action.MAIN" />
+57-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:38:5-57
+57-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:38:13-54
+58
+59                <category android:name="com.oculus.intent.category.VR" />
+59-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:39:5-62
+59-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:39:15-59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:40:5-65
+60-->/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/AndroidManifest.xml:40:15-62
+61            </intent-filter>
+62        </activity>
+63
+64        <meta-data
+64-->[com.android.support:appcompat-v7:26.0.0] /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/AndroidManifest.xml:26:9-28:38
+65            android:name="android.support.VERSION"
+65-->[com.android.support:appcompat-v7:26.0.0] /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/AndroidManifest.xml:27:13-51
+66            android:value="26.0.0" />
+66-->[com.android.support:appcompat-v7:26.0.0] /Users/muni/.gradle/caches/transforms-3/750c4589261369332f61c1146cbdef3c/transformed/appcompat-v7-26.0.0/AndroidManifest.xml:28:13-35
+67    </application>
+68
+69</manifest>

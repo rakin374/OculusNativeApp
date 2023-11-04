@@ -1,4 +1,4 @@
-#Fri Nov 03 19:17:40 EDT 2023
+#Fri Nov 03 20:38:08 EDT 2023
 base.0=/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/muni/Projects/XRProjects/ovr_openxr_mobile_sdk_57/XrSamples/XrHandsFB/Projects/Android/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex

@@ -3,6 +3,7 @@ rootProject.projectDir = new File(settingsDir, '.')
 rootProject.name = "OculusRoot"
 
 include ':',\
-':XrSamples:XrHandsFB:Projects:Android'
+':XrSamples:XrHandsFB:Projects:Android',\
+'XrSamples:XrControllers:Projects:Android'
 
 // Top level settings

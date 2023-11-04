@@ -12,6 +12,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/XrSamples" />
+            <option value="$PROJECT_DIR$/XrSamples/XrControllers" />
+            <option value="$PROJECT_DIR$/XrSamples/XrControllers/Projects" />
+            <option value="$PROJECT_DIR$/XrSamples/XrControllers/Projects/Android" />
             <option value="$PROJECT_DIR$/XrSamples/XrHandsFB" />
             <option value="$PROJECT_DIR$/XrSamples/XrHandsFB/Projects" />
             <option value="$PROJECT_DIR$/XrSamples/XrHandsFB/Projects/Android" />

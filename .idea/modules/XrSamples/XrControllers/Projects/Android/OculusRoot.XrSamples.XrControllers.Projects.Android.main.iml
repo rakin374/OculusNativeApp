@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../../../../SampleCommon/Src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../SampleCommon/Src" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../SampleCommon/Projects/Android/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../SampleCommon/Projects/Android/jni" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../SampleXrFramework/Projects/Android/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../SampleXrFramework/Projects/Android/jni" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../SampleXrFramework/Src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../SampleXrFramework/Src" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../XrSamples/XrControllers/Src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../XrSamples/XrControllers/Src" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../OpenXR/Include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../OpenXR/Include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../1stParty/OVR/Include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../1stParty/OVR/Include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../3rdParty">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../3rdParty" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../XrSamples/XrControllers/Projects/Android/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../XrSamples/XrControllers/Projects/Android/jni" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../1stParty/utilities/include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../1stParty/utilities/include" type="native-header-root" />
+    </content>
+  </component>
+</module>
